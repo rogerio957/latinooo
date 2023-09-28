@@ -1,0 +1,311 @@
+#EXTM3U
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41660.ts
+#EXTINF:-1,MX: Al Jazeera
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41661.ts
+#EXTINF:-1,MX: Aliento vision
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41662.ts
+#EXTINF:-1,MX: AMC
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41663.ts
+#EXTINF:-1,MX: Animal Planet
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41664.ts
+#EXTINF:-1,MX: BABY FIRST
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41675.ts
+#EXTINF:-1,MX: Boomerang HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41680.ts
+#EXTINF:-1,MX: Canal 4
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41685.ts
+#EXTINF:-1,MX: Cbtv
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41691.ts
+#EXTINF:-1,MX: Cinecanal
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41693.ts
+#EXTINF:-1,MX: CNN en Espa
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41695.ts
+#EXTINF:-1,MX: CNN International
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41696.ts
+#EXTINF:-1,MX: Cubaplay
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41698.ts
+#EXTINF:-1,MX: De Pelicula
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41699.ts
+#EXTINF:-1,MX: De Pelicula Clasico
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41700.ts
+#EXTINF:-1,MX: Discovery Channel HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41702.ts
+#EXTINF:-1,MX: Discovery Civilization
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41703.ts
+#EXTINF:-1,MX: Discovery H&H
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41704.ts
+#EXTINF:-1,MX: Discovery Kids
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41705.ts
+#EXTINF:-1,MX: Discovery Science
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41706.ts
+#EXTINF:-1,MX: DISCOVERY TLC
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41708.ts
+#EXTINF:-1,MX: Discovery Turbo HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41709.ts
+#EXTINF:-1,MX: Discovery World HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41710.ts
+#EXTINF:-1,MX: Disney Jr.
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41712.ts
+#EXTINF:-1,MX: Disney XD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41713.ts
+#EXTINF:-1,MX: Distrito Comedia
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41714.ts
+#EXTINF:-1,MX: Dominican view
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41715.ts
+#EXTINF:-1,MX: DW
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41716.ts
+#EXTINF:-1,MX: E! Entertainment HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41717.ts
+#EXTINF:-1,MX: El Gourmet HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41718.ts
+#EXTINF:-1,MX: ESPN 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41720.ts
+#EXTINF:-1,MX: Espn 3
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41721.ts
+#EXTINF:-1,MX: Estrella tv
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41725.ts
+#EXTINF:-1,MX: EUROSPORTS 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41728.ts
+#EXTINF:-1,MX: Excelsior TV HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41730.ts
+#EXTINF:-1,MX: Film & Arts
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41731.ts
+#EXTINF:-1,MX: Food Network HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41732.ts
+#EXTINF:-1,MX: Formula Noticias
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41733.ts
+#EXTINF:-1,MX: FORMULA TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41734.ts
+#EXTINF:-1,MX: Foro TV HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41735.ts
+#EXTINF:-1,MX: Fox
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41736.ts
+#EXTINF:-1,MX: Fox Action HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41737.ts
+#EXTINF:-1,MX: FOX CINEMA
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41738.ts
+#EXTINF:-1,MX: Fox Cinema
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41739.ts
+#EXTINF:-1,MX: Fox HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41740.ts
+#EXTINF:-1,MX: Fox Movies HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41742.ts
+#EXTINF:-1,MX: Fox News HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41743.ts
+#EXTINF:-1,MX: Fox Series
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41744.ts
+#EXTINF:-1,MX: Fox Sports 2 HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41746.ts
+#EXTINF:-1,MX: Fox Sports 3 HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41747.ts
+#EXTINF:-1,MX: France 24 hd
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41748.ts
+#EXTINF:-1,MX: Francia 24 HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41749.ts
+#EXTINF:-1,MX: FX HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41750.ts
+#EXTINF:-1,MX: GALA TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41752.ts
+#EXTINF:-1,MX: Glitz
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41754.ts
+#EXTINF:-1,MX: Golden Edge
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41756.ts
+#EXTINF:-1,MX: H2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41759.ts
+#EXTINF:-1,MX: History HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41760.ts
+#EXTINF:-1,MX: HLN HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41761.ts
+#EXTINF:-1,MX: Hola TV HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41762.ts
+#EXTINF:-1,USA | ABC (Philadelphia)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41764.ts
+#EXTINF:-1,MX: Insight_tv
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41765.ts
+#EXTINF:-1,MX: Isat
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41768.ts
+#EXTINF:-1,MX: Lasusa
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41770.ts
+#EXTINF:-1,MX: LIFETIME
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41771.ts
+#EXTINF:-1,MX: Lifetime HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41772.ts
+#EXTINF:-1,MX: Mas Chic
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41773.ts
+#EXTINF:-1,MX: MEXIQUENSE
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41774.ts
+#EXTINF:-1,MX: MORBIDO TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41776.ts
+#EXTINF:-1,MX: MTV HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41780.ts
+#EXTINF:-1,MX: MTV HITS
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41781.ts
+#EXTINF:-1,MX: Multimedios HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41783.ts
+#EXTINF:-1,MX: NAT GEO
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41785.ts
+#EXTINF:-1,MX: National Geographic
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41788.ts
+#EXTINF:-1,MX: Nick 2 HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41790.ts
+#EXTINF:-1,MX: Nick Jr.
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41791.ts
+#EXTINF:-1,MX: Nickelodeon SD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41793.ts
+#EXTINF:-1,MX: Nicktoons
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41794.ts
+#EXTINF:-1,MX: Canal Once
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41797.ts
+#EXTINF:-1,MX: Paramount Channel HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41798.ts
+#EXTINF:-1,MX: RCN
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41800.ts
+#EXTINF:-1,MX: RMS
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41801.ts
+#EXTINF:-1,MX: Sorpresa
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41804.ts
+#EXTINF:-1,MX: Star TVE HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41806.ts
+#EXTINF:-1,MX: SUNDANCE TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41808.ts
+#EXTINF:-1,MX: Supercanal
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41809.ts
+#EXTINF:-1,MX: SyFy
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41810.ts
+#EXTINF:-1,MX: Tele-el-salvador
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41813.ts
+#EXTINF:-1,MX: TELEHIT
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41814.ts
+#EXTINF:-1,MX: Telemicro
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41816.ts
+#EXTINF:-1,MX: Telen
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41817.ts
+#EXTINF:-1,MX: Televisa Pueblo HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41818.ts
+#EXTINF:-1,MX: TLR
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41819.ts
+#EXTINF:-1,MX: TP ITV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41824.ts
+#EXTINF:-1,MX: TP NICK JR
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41825.ts
+#EXTINF:-1,MX: TP NICKTOONS
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41826.ts
+#EXTINF:-1,MX: TP STAR TVE
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41827.ts
+#EXTINF:-1,MX: TP TNT
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41829.ts
+#EXTINF:-1,MX: TP TP CANAL2331
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41830.ts
+#EXTINF:-1,MX: TP TP CANAL44
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41831.ts
+#EXTINF:-1,MX: Tru TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41832.ts
+#EXTINF:-1,MX: TVC
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41834.ts
+#EXTINF:-1,MX: TVC DEPORTES
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41835.ts
+#EXTINF:-1,MX: TVO D HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41837.ts
+#EXTINF:-1,MX: Ultra Cine
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41839.ts
+#EXTINF:-1,MX: Ultra Luna
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41846.ts
+#EXTINF:-1,MX: Ultra tainment
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41849.ts
+#EXTINF:-1,MX: UNICABLE
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41850.ts
+#EXTINF:-1,MX: UNIVISION 41
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41851.ts
+#EXTINF:-1,MX: VH1
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/41852.ts
+#EXTINF:-1,CR: Enlace
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/60626.ts
+#EXTINF:-1,CR: TicaVision Canal 52
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683399.ts
+#EXTINF:-1,CR: Teleuno
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683400.ts
+#EXTINF:-1,CR: Teletica 7
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683401.ts
+#EXTINF:-1,CR: Telered
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683402.ts
+#EXTINF:-1,CR: Repretel 6
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683403.ts
+#EXTINF:-1,CR: Repretel 4
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683404.ts
+#EXTINF:-1,CR: Repretel 11
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683406.ts
+#EXTINF:-1,CR: Canal 14 Tv Sur
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683408.ts
+#EXTINF:-1,CR: 88 Stereo
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683409.ts
+#EXTINF:-1,CR: Canal 15
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683410.ts
+#EXTINF:-1,CR: Extrema TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683411.ts
+#EXTINF:-1,CR: Anexion
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683412.ts
+#EXTINF:-1,CR: Multimedios
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683416.ts
+#EXTINF:-1,CR: Tele Sur
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683417.ts
+#EXTINF:-1,CR: Esperanza TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683418.ts
+#EXTINF:-1,CR: Canal 9 TV Sur
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683419.ts
+#EXTINF:-1,CR: TeleFides
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683420.ts
+#EXTINF:-1,CR: Santa Cruz TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683422.ts
+#EXTINF:-1,CR: San Jose TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683423.ts
+#EXTINF:-1,CR: Norte Informativo
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683424.ts
+#EXTINF:-1,CR: Tele Sistema Canal 9
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683425.ts
+#EXTINF:-1,CR: Cruz TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683426.ts
+#EXTINF:-1,CR: Canal 38
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683427.ts
+#EXTINF:-1,CR: Retro Channel
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683428.ts
+#EXTINF:-1,CR:  +Televisión
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683430.ts
+#EXTINF:-1,CR: Video Tour TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683432.ts
+#EXTINF:-1,CR: Retro Plus
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683433.ts
+#EXTINF:-1,CR:  Cable Sur Canal 5
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683435.ts
+#EXTINF:-1,CR: Urbano Tv
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683436.ts
+#EXTINF:-1,CR: Colosal
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683440.ts
+#EXTINF:-1,CR: Canal 88
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683441.ts
+#EXTINF:-1,CR: Voice Over TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683444.ts
+#EXTINF:-1,CR: HOT78 Radio Costa Rica
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683445.ts
+#EXTINF:-1,CR: Radio Columbia
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683447.ts
+#EXTINF:-1,CR: Radio Disney 101.1
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683448.ts
+#EXTINF:-1,CR: Radio Fides 93.1
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683450.ts
+#EXTINF:-1,CR: Radio Maria
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683452.ts
+#EXTINF:-1,CR:  Radio Omega 105.1 FM
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683454.ts
+#EXTINF:-1,CR: Radio WAO 92.3
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683456.ts
+#EXTINF:-1,CR: Columbia Estereo Romantica
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683459.ts
+#EXTINF:-1,CR: IQ TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683461.ts
+#EXTINF:-1,CR: Repretel 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683463.ts
+#EXTINF:-1,CR: Los Santos TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683464.ts
+#EXTINF:-1,CR: STV Canal 5 San Vito
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683467.ts
+
